@@ -31,6 +31,7 @@ const MODEL_MAPPING = {
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'glm-5-3': 'z-ai/glm-5.3',
   'deepseek-v4.1-flash': 'deepseek-ai/deepseek-v4.1-flash',
+  'glm-5-3-flash': 'z-ai/glm-5.3-flash',
   'nemotron-3.5-lightning-30b-a3b': 'nvidia/nemotron-3.5-lightning-30b-a3b'
 };
 
