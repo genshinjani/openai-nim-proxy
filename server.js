@@ -33,6 +33,7 @@ const MODEL_MAPPING = {
   'deepseek-v4.1-flash': 'deepseek-ai/deepseek-v4.1-flash',
   'glm-5-3-flash': 'z-ai/glm-5.3-flash',
   'Mistral Large 4': 'mistralai/mistral-large-4-1t-a52b',
+  'minimax-m3.1-flash': 'minimaxai/minimax-m3.1-flash',
   'nemotron-3.5-lightning-30b-a3b': 'nvidia/nemotron-3.5-lightning-30b-a3b'
 };
 
